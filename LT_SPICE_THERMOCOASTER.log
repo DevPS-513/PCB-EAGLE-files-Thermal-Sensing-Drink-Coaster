@@ -1,0 +1,58 @@
+Circuit: * C:\Users\Flint\Documents\EAGLE\projects\Bethune_ThermoCoaster\LT_SPICE_THERMOCOASTER.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v2.  Increasing period to 0.052
+WARNING: Less than two connections to node N017.  This node is used by Q§NPN_R3.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 9.04626e-008
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 327.685 ms.
+
+Date: Wed Dec 23 12:57:55 2020
+Total elapsed time: 0.485 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10451
+traniter = 2621
+tranpoints = 1230
+accept = 1166
+rejected = 69
+matrix size = 44
+fillins = 38
+solver = Normal
+Matrix Compiler1: 3.95 KB object code size  0.8/0.4/[0.2]
+Matrix Compiler2: off  [0.4]/1.6/0.6
+

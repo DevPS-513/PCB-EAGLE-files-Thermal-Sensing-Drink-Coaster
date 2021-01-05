@@ -1,0 +1,7 @@
+video notes
+-go over scaling pixels per inch and looking at script file to get an idea where it is drawing
+-also how you can use the mirror function to put stuff on top layer onto bottom
+-and the colors
+-make sure to do a simulation
+-- HOW TO KNOW WHAT RULES YOUR AUTO ROUTER IS FOLLOWING
+-- THE JLPCB VIEWER
